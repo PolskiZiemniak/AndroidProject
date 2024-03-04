@@ -11,10 +11,18 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         val button1: Button = findViewById(R.id.button1)
+        val button2: Button = findViewById(R.id.button2)
+        val button3: Button = findViewById(R.id.button3)
         val textView: TextView = findViewById(R.id.textView)
 
         button1.setOnClickListener {
-            textView.setText(R.string.hello_text)
+            textView.setText(R.string.hello_world)
+        }
+        button2.setOnClickListener {
+            textView.setText(R.string.name)
+        }
+        button3.setOnClickListener {
+            textView.setText(R.string.goodbye_world)
         }
     }
 }
