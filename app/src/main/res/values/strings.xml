@@ -1,6 +1,17 @@
 <resources>
     <string name="app_name">Project</string>
-    <string name="hello_world">Hello World</string>
-    <string name="name">Jakub Maciaszczyk</string>
-    <string name="goodbye_world">Goodbye World</string>
+    <string name="buttonValue0">0</string>
+    <string name="buttonValue1">1</string>
+    <string name="buttonValue2">2</string>
+    <string name="buttonValue3">3</string>
+    <string name="buttonValue4">4</string>
+    <string name="buttonValue5">5</string>
+    <string name="buttonValue6">6</string>
+    <string name="buttonValue7">7</string>
+    <string name="buttonValue8">8</string>
+    <string name="buttonValue9">9</string>
+    <string name="buttonValueAdd">+</string>
+    <string name="buttonValueSubtract">-</string>
+    <string name="buttonValueMultiply">*</string>
+    <string name="buttonValueDivide">/</string>
 </resources>
